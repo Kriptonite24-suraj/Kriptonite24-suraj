@@ -1,3 +1,4 @@
+![logo](https://github.com/Kriptonite24-suraj/Kriptonite24-suraj/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Suraj Kumar Singh</h1>
 <h3 align="center">Web Development enthusiast!!</h3>
 <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxjMXU3ZnEzdHBhazN5MmpieWV4cTJhNW9saGlxMGV4a3E5MDM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
