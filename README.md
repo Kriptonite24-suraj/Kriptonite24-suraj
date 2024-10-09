@@ -5,7 +5,7 @@ experienced in building web applications using HTML, CSS, JavaScript, React.js, 
 opportunities to apply skills and contribute to innovative projects.</h3>
 <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxjMXU3ZnEzdHBhazN5MmpieWV4cTJhNW9saGlxMGV4a3E5MDM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kriptonite24-suraj&label=Profile%20views&color=0e75b6&style=flat" alt="kriptonite24-suraj" style="border: 2px solid green; border-radius: 10px;" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kriptonite24-suraj&label=Profile%20views&color=0e75b6&style=flat" alt="kriptonite24-suraj" style="border: 2 px solid green; border-radius: 10 px;" /> </p>
 
 <h3 align="left">Connect with me: </h3>
 <li><a href="https://www.linkedin.com/in/suraj-singh-741029236/">LinkedIn</a></li>
