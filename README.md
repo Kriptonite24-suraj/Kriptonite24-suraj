@@ -3,7 +3,8 @@
 <h3 align="center">Final-year BTech student with a strong foundation in software development. Proficient in Java, DSA, and
 experienced in building web applications using HTML, CSS, JavaScript, React.js, and Node.js.Seeking
 opportunities to apply skills and contribute to innovative projects.</h3>
-<img align="right" alt="GIF" width="400px" style="border: 2 px solid green; border-radius: 10 px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxjMXU3ZnEzdHBhazN5MmpieWV4cTJhNW9saGlxMGV4a3E5MDM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxjMXU3ZnEzdHBhazN5MmpieWV4cTJhNW9saGlxMGV4a3E5MDM1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="border: 2px solid green; border-radius: 10px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriptonite24-suraj&label=Profile%20views&color=0e75b6&style=flat" alt="kriptonite24-suraj" /> </p>
 
 <h3 align="left">Connect with me: </h3>
